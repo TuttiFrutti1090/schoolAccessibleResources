@@ -1,0 +1,23 @@
+body {
+    background-color: #1e1e1e;
+}
+header {
+    background-color: #333333;
+    border-radius: 50px;
+}
+footer{
+    background-color: #333333;
+}
+#toolbar{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#home-button{
+    background-color: #333333;
+    padding: 2px 2px 2px 2px;
+    float: left;
+    cursor: pointer;
+}
+#home-button:hover{
+    background-color: #858585;
+}
